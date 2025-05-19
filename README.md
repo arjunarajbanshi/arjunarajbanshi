@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun Rajbanshi</h1>
 <h3 align="center">A passionate Web Developer from Nepal</h3>
 
-- 🌱 I’m currently learning **Reactjs, Nextjs etc**
+- 🌱 I’m currently learning **Machine Learning and flutter**
 
 - 👨‍💻 All of my projects are available at [rajbanshiarjun.com.np](https://www.rajbanshiarjun.com.np/)
 
