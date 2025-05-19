@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Reactjs, Nextjs etc**
 
-- 👨‍💻 All of my projects are available at [https://www.rajbanshiarjun.com.np/](https://www.rajbanshiarjun.com.np/)
+- 👨‍💻 All of my projects are available at [rajbanshiarjun.com.np](https://www.rajbanshiarjun.com.np/)
 
 - 📫 How to reach me **rajbanshiarjun.dipped545@passinbox.com**
 
